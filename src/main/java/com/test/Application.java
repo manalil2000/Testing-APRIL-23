@@ -1,9 +1,9 @@
-package com.xrms.sasa.Joshy;
+package com.Joshy.newchange;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
+	
 @SpringBootApplication
 
 public class Application{
